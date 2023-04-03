@@ -104,8 +104,8 @@ img {
   transition: 0.5s;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 450px) {
   .cabeçalho-link {
-    display: none;
+    display: list-item;
   }
 }
